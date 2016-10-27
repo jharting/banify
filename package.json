@@ -1,0 +1,22 @@
+{
+  "name": "banify",
+  "version": "0.0.1",
+  "description": "Browserify plugin that enforces that certain packages are not imported",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jharting/banify.git"
+  },
+  "keywords": [
+    "browserify",
+    "enforce",
+    "dependency",
+    "ban"
+  ],
+  "author": "Jozef Hartinger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jharting/banify/issues"
+  },
+  "homepage": "https://github.com/jharting/banify"
+}
