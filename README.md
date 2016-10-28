@@ -13,7 +13,7 @@ var BLACKLIST = [
 
 gulp.src(['./index.js'])
     .pipe(bro({
-        plugin: [banify([BLACKLIST])]
+        plugin: [banify(BLACKLIST)]
     }))
 ```
 
