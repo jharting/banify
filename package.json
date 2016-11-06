@@ -1,6 +1,6 @@
 {
   "name": "banify",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Browserify plugin that enforces that certain packages are not imported",
   "main": "index.js",
   "repository": {
